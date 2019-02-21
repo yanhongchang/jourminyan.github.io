@@ -29,13 +29,13 @@ favicon: /assets/image/favicon.ico
 
 # 博客作者相关
 author:
-  name: Lingxian Kong
-  email: larrykong2016@gmail.com
-  link: http://lingxiankong.github.io/
-  weibo: http://www.weibo.com/lingxiankong
-  weibo_username: Lingxian_Kong
-  github: https://github.com/lingxiankong
-  github_username: lingxiankong
+  name: Hongchang Yan
+  email: yanhongchang5@gmail.com
+  link: http://yanhongchang.github.io/
+  weibo: http://github.com/yanhongchang
+  weibo_username: yanhongchang
+  github: https://github.com/yanhongchang
+  github_username: yanhongchang
 
 
 locals:
@@ -59,4 +59,4 @@ image: /assets/image/
 
 # disqus 设置
 disqus:
-  shortname: lingxiankong
+  shortname: yanhongchang
