@@ -1,7 +1,7 @@
 # Site settings
-title: 孔令贤的个人博客
-email: larrykong2016@gmail.com
-description: > #孔令贤的个人博客
+title: 闫洪昌的个人博客
+email: yanhongchang5@gmail.com
+description: > #闫洪昌的个人博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lingxiankong.github.io/index.html" # the base hostname & protocol for your site
 
