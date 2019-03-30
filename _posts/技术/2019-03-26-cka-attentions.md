@@ -49,7 +49,7 @@ category: 技术
      4、CKA考试环境中，有多个cluster，有些题目需要提前切换到对应的cluster中。不过在每个题目中都会有提示，这里提醒大家要注意答题的cluster是否为题目要求的cluster。否则，可能即便答了题，也可能拿不到分。
 
 最后，奉上本人通过的CKA证书，祝大家好运！
-![](/images/2019-3-26-cka-attentions/cka.jpg)
+![](/images/2019-3-26-cka-attentions/cka.png)
 
 
 
