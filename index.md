@@ -4,7 +4,7 @@ title: 技术服务生活 - jourminyan的个人博客
 ---
 ---
 
-![](/images/1988-10-03-about-me/head.jpg)
+![](/images/1988-10-03-about-me/earth.jpg)
 
 毕业于河北大学计算机网络专业、而后进入北航软件学院研究生攻读硕士学位，于2015年获取硕士学位。
 
@@ -17,5 +17,6 @@ title: 技术服务生活 - jourminyan的个人博客
 联系方式：
 - Email: <yanhongchang5@gmail.com> 
 
+
+
 ---
-{% include disqus.html %}
