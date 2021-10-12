@@ -10,9 +10,9 @@ title: 技术服务生活 - jourminyan的个人博客
 
 专业领域：openstack、kubernetes、私有云、网络虚拟化
 
-主要变成语言：python、golang
+主要语言：python、golang
 
-现任职于国内某教育集团，负责虚拟化平台建设和演进等工作。
+现任职于国内某教育集团技术部门参与建设虚拟化平台建设和演进方面工作。
 
 联系方式：
 - Email: <yanhongchang5@gmail.com> 
