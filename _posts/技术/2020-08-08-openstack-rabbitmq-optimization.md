@@ -2,7 +2,7 @@
 layout: post
 title: openstack虚拟机热迁移导致网络中断问题记录
 category: 技术
-date: 2020-08-018
+date: 2020-08-08
 
 ---
 
